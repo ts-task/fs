@@ -1,3 +1,5 @@
+/// <reference types="jest" />
+
 import { UnknownError } from "@ts-task/task";
 
 export const jestAssertNever =

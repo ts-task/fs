@@ -1,0 +1,8 @@
+{
+    "extends": "dtslint/dtslint.json",
+    "rules": {
+      "no-useless-files": false,
+      /* I find this rule annoying, so I'm disabeling it ;) */
+      "eofline": false
+    }
+  }
