@@ -12,8 +12,13 @@
       ],
       "lib": [
           "es2015"
-      ]
+      ],
+      "baseUrl": ".",
+      "paths": {
+        "@ts-task/fs": ["../src/fs"]
+      }
     },
+
     "include": [
       "."
     ]
