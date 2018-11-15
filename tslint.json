@@ -50,7 +50,7 @@
           "LF"
       ],
       "encoding": true,
-      "no-implicit-dependencies": true,
+      "no-implicit-dependencies": [true, "dev"],
       "no-inferred-empty-object-type": true,
       "no-misused-new": true,
       "no-switch-case-fall-through": true,

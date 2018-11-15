@@ -5,12 +5,12 @@ This library is a wrapper of async functions of Node.js [fs module](https://node
 ### Use
 
 
-** Install it **
+**Install it**
 ```bash
 npm i @ts-task/fs
 ```
 
-** Use it **
+**Use it**
 
 ```typescript
 import * as fs from '@ts-task/fs';
@@ -31,6 +31,6 @@ fs.readFile('./README.md')
     )
 ```
 
-You can see the API reference here
+You can see the API reference [here](https://ts-task.github.io/fs/).
 
 You can see more example usages in the [types test file](./test/types/index.ts).
